@@ -1,0 +1,80 @@
+/* Nome das cores */
+
+.color-name {
+    color: crimson;
+}
+
+/*Cores RGB*/
+
+.rgb{
+    color: rgb(255, 0, 0);
+}
+
+.rgb-misturado{
+    color: rgb(199, 21, 47);
+}
+
+/* RGBA */
+.rgba{
+    color: rgba(100, 99, 45, 0.3);
+}
+
+/*Hexadecimal */
+
+.hex{
+    color: #1a8c55;
+}
+
+.hex2{
+    color: #1a8c55;
+}
+/* Hexadecimal Simplificado */
+
+.hex-simplificado{
+    color: #333333;
+}
+
+.hex-simplificado2{
+    color:#aa66ee;
+}
+
+/* HSL */
+.hsl{
+    color: hsl(199, 44%, 5%);
+}
+
+.hsl2{
+    color:hsl(199, 44%, 5%);
+}
+
+/*Background Color*/
+
+.backgroundcolor{
+    background-color: #000;
+    color: gold;
+}
+
+.bg-2{
+    background-color: rgb(100, 50, 33);
+    color: #0fa;
+}
+
+/*Opacidade no Background COlor */
+
+.bg-com-opacidade {
+    background-color: #888;
+    color: black;
+    opacity: 0.8;
+}
+
+.bg-com-opacidade2 {
+    background-color: #888;
+    color: black;
+    opacity: 0.8;
+}
+
+/*RGBA com opacidade)Fundo transparente e fonte não)*/
+.rgba-opacidade {
+    background-color: rgba(90, 100, 40, 0.2);
+    color: #000;
+}
